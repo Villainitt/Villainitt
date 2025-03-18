@@ -1,3 +1,5 @@
+<img src = "bonsaiomen.gif" align = "right" width = "180px"/>
+
 # 🤍 Olá, que bom ter você aqui! 
 
 - 🎓 Estudante de análise e desenvolvimento de sistemas
