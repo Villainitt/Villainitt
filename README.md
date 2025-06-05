@@ -28,8 +28,8 @@ Bem-vindo(a) ao meu perfil!
 
 ## **GitHub Stats**
 <div align = "center">
-  <img height = "100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Villainitt&show_icons=true&theme=nightowl&count_private=true"/> 
-  <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=Villainitt&show_icons=true&show_icons=true&theme=nightowl&count_private=true"/>  
+  <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Villainitt&show_icons=true&theme=nightowl&count_private=true"/> 
+  <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=Villainitt&show_icons=true&show_icons=true&theme=nightowl&count_private=true"/>  
 </div>
 
 ---
