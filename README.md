@@ -42,7 +42,7 @@ Bem-vindo(a) ao meu perfil!
   <a href="https://github.com/Villainitt" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/camila-martins-6a5bb02b1" target="_blank">
+  <a href="www.linkedin.com/in/camila-martins-6a5bb02b1">
     <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=LinkedIn&logoColor=white&color=2196F3" />
   </a>
  
