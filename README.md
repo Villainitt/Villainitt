@@ -5,7 +5,7 @@
 Bem-vindo(a) ao meu perfil!
 
 - 🎓 **Estudante de análise e desenvolvimento de sistemas**
-- 📔 **Atualmente aprendendo:** Flutter/Dart
+- 📔 **Atualmente aprendendo:** Python e Machine learning
 - 🐦‍⬛ **Foco:** Java(atualmente) e Front-end (futuro)
   
 ---
